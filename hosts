@@ -4,7 +4,7 @@
 # with a dash of crowd sourcing via GitHub
 #
 # Date: 22 September 2024 20:07:07 (UTC)
-# Number of unique domains: 257
+# Number of unique domains: 284
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/pawan418/yt-ad-blocker/main/hosts
 # Project home page: https://github.com/pawan418/yt-ad-blocker
@@ -294,7 +294,33 @@ ff02::3 ip6-allhosts
 0.0.0.0 r9---sn-gwpa-3o0s.googlevideo.com
 0.0.0.0 r9---sn-gwpa-a3vr.googlevideo.com
 0.0.0.0 r9.sn-gwpa-a3vr.googlevideo.com
-
+0.0.0.0 rr1---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 rr1.sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 rr2---sn-q4flrnlz.googlevideo.com
+0.0.0.0 rr2---sn-qxaelnek.googlevideo.com
+0.0.0.0 rr2.sn-q4flrnlz.googlevideo.com
+0.0.0.0 rr2.sn-qxaelnek.googlevideo.com
+0.0.0.0 rr3---sn-aigl6nl7.googlevideo.com
+0.0.0.0 rr3---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 rr3---sn-gwpa-a3vk.googlevideo.com
+0.0.0.0 rr3.sn-gwpa-a3vk.googlevideo.com
+0.0.0.0 rr4---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 rr4---sn-q4fl6n6z.googlevideo.com
+0.0.0.0 rr4---sn-q4flrner.googlevideo.com
+0.0.0.0 rr4.sn-q4flrner.googlevideo.com
+0.0.0.0 rr4---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 rr4.sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 rr5---sn-q4fl6n66.googlevideo.com
+0.0.0.0 rr5.sn-q4fl6n66.googlevideo.com
+0.0.0.0 rr6.sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 rr6---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 rr6---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 rr6---sn-gwpa-qxak.googlevideo.com
+0.0.0.0 rr6---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 rr6.sn-gwpa-qxay.googlevideo.com
+0.0.0.0 rr7---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 rr9---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 rr9.sn-gwpa-a3vr.googlevideo.com
 
 # blacklist
 #
