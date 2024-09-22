@@ -1,0 +1,306 @@
+# Title: pawan418/yt-ad-blocker
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 22 September 2024 20:07:07 (UTC)
+# Number of unique domains: 257
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/pawan418/yt-ad-blocker
+# Project releases: https://github.com/pawan418/yt-ad-blocker/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start erpawansingh
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# https://erpawansingh.com
+
+0.0.0.0 r1---sn-gwpa-0qge.googlevideo.com
+0.0.0.0 r1---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r1---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r1---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r1---sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r1---sn-gwpa-a3ve.googlevideo.com
+0.0.0.0 r1---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r1---sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r1---sn-gwpa-jj0k.googlevideo.com
+0.0.0.0 r1---sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r1---sn-gwpa-qxad.googlevideo.com
+0.0.0.0 r1---sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r1---sn-gwpa-qxak.googlevideo.com
+0.0.0.0 r1---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r1---sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r1---sn-npoe7nsk.googlevideo.com
+0.0.0.0 r1---sn-q4flrn7k.googlevideo.com
+0.0.0.0 r1---sn-q4flrnes.googlevideo.com
+0.0.0.0 r1---sn-q4fzen7s.googlevideo.com
+0.0.0.0 r1---sn-qxaeenld.googlevideo.com
+0.0.0.0 r1.sn-gwpa-0qge.googlevideo.com
+0.0.0.0 r1.sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r1.sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r1.sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r1.sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r1.sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r1.sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r1.sn-gwpa-jj0k.googlevideo.com
+0.0.0.0 r1.sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r1.sn-gwpa-qxak.googlevideo.com
+0.0.0.0 r1.sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r1.sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r1.sn-npoe7nsk.googlevideo.com
+0.0.0.0 r1.sn-q4flrnes.googlevideo.com
+0.0.0.0 r1.sn-q4fzen7s.googlevideo.com
+0.0.0.0 r1.sn-qxaeenld.googlevideo.com
+0.0.0.0 r10---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r10---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r10---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r10.sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r2---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r2---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r2---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r2---sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r2---sn-gwpa-a3vk.googlevideo.com
+0.0.0.0 r2---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r2---sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r2---sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r2---sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r2---sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r2---sn-npoldn7l.googlevideo.com
+0.0.0.0 r2---sn-q4fl6n6z.googlevideo.com
+0.0.0.0 r2---sn-q4flrnlz.googlevideo.com
+0.0.0.0 r2---sn-q4fzen7s.googlevideo.com
+0.0.0.0 r2---sn-q4fzenee.googlevideo.com
+0.0.0.0 r2---sn-qxaeenl6.googlevideo.com
+0.0.0.0 r2---sn-qxaeenls.googlevideo.com
+0.0.0.0 r2---sn-qxaeenlz.googlevideo.com
+0.0.0.0 r2---sn-qxaelnek.googlevideo.com
+0.0.0.0 r2---sn-qxaelnel.googlevideo.com
+0.0.0.0 r2---sn-qxaelnes.googlevideo.com
+0.0.0.0 r2---sn-qxaelney.googlevideo.com
+0.0.0.0 r2---sn-qxaelnez.googlevideo.com
+0.0.0.0 r2.sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r2.sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r2.sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r2.sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r2.sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r2.sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r2.sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r2.sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r2.sn-npoldn7l.googlevideo.com
+0.0.0.0 r2.sn-q4fl6n6z.googlevideo.com
+0.0.0.0 r2.sn-q4flrnlz.googlevideo.com
+0.0.0.0 r2.sn-q4fzen7s.googlevideo.com
+0.0.0.0 r2.sn-q4fzenee.googlevideo.com
+0.0.0.0 r2.sn-qxaeenl6.googlevideo.com
+0.0.0.0 r2.sn-qxaeenls.googlevideo.com
+0.0.0.0 r2.sn-qxaeenlz.googlevideo.com
+0.0.0.0 r2.sn-qxaelnek.googlevideo.com
+0.0.0.0 r2.sn-qxaelnes.googlevideo.com
+0.0.0.0 r2.sn-qxaelney.googlevideo.com
+0.0.0.0 r2.sn-qxaelnez.googlevideo.com
+0.0.0.0 r3---sn-5hnekn7l.googlevideo.com
+0.0.0.0 r3---sn-aigl6nl7.googlevideo.com
+0.0.0.0 r3---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r3---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r3---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r3---sn-gwpa-a3ve.googlevideo.com
+0.0.0.0 r3---sn-gwpa-a3vk.googlevideo.com
+0.0.0.0 r3---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r3---sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r3---sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r3---sn-gwpa-qxad.googlevideo.com
+0.0.0.0 r3---sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r3---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r3---sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r3---sn-qxaeeney.googlevideo.com
+0.0.0.0 r3---sn-qxaelnel.googlevideo.com
+0.0.0.0 r3.sn-5hnekn7l.googlevideo.com
+0.0.0.0 r3.sn-aigl6nl7.googlevideo.com
+0.0.0.0 r3.sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r3.sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r3.sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r3.sn-gwpa-a3vk.googlevideo.com
+0.0.0.0 r3.sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r3.sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r3.sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r3.sn-qxaeeney.googlevideo.com
+0.0.0.0 r3.sn-qxaelnel.googlevideo.com
+0.0.0.0 r4---sn-5hneknee.googlevideo.com
+0.0.0.0 r4---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r4---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r4---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r4---sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r4---sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r4---sn-gwpa-a3vk.googlevideo.com
+0.0.0.0 r4---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r4---sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r4---sn-gwpa-qxas.googlevideo.com
+0.0.0.0 r4---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r4---sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r4---sn-q4fl6n6z.googlevideo.com
+0.0.0.0 r4---sn-q4flrner.googlevideo.com
+0.0.0.0 r4---sn-q4flrnsk.googlevideo.com
+0.0.0.0 r4---sn-qxaelned.googlevideo.com
+0.0.0.0 r4---sn-qxaelney.googlevideo.com
+0.0.0.0 r4---sn-t0a7ln7d.googlevideo.com
+0.0.0.0 r4.sn-5hneknee.googlevideo.com
+0.0.0.0 r4.sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r4.sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r4.sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r4.sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r4.sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r4.sn-gwpa-a3vk.googlevideo.com
+0.0.0.0 r4.sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r4.sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r4.sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r4.sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r4.sn-q4fl6n6z.googlevideo.com
+0.0.0.0 r4.sn-q4flrner.googlevideo.com
+0.0.0.0 r4.sn-q4flrnsk.googlevideo.com
+0.0.0.0 r4.sn-qxaelned.googlevideo.com
+0.0.0.0 r4.sn-qxaelney.googlevideo.com
+0.0.0.0 r5---sn-4g5ednsy.googlevideo.com
+0.0.0.0 r5---sn-5hne6n6l.googlevideo.com
+0.0.0.0 r5---sn-5hneknee.googlevideo.com
+0.0.0.0 r5---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r5---sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r5---sn-gwpa-a3ve.googlevideo.com
+0.0.0.0 r5---sn-gwpa-a3vs.googlevideo.com
+0.0.0.0 r5---sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r5---sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r5---sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r5---sn-gwpa-qxad.googlevideo.com
+0.0.0.0 r5---sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r5---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r5---sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r5---sn-q4fl6n66.googlevideo.com
+0.0.0.0 r5---sn-q4fl6nsk.googlevideo.com
+0.0.0.0 r5---sn-q4flrne6.googlevideo.com
+0.0.0.0 r5---sn-qxaelne6.googlevideo.com
+0.0.0.0 r5.sn-4g5ednsy.googlevideo.com
+0.0.0.0 r5.sn-5hne6n6l.googlevideo.com
+0.0.0.0 r5.sn-5hneknee.googlevideo.com
+0.0.0.0 r5.sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r5.sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r5.sn-gwpa-a3ve.googlevideo.com
+0.0.0.0 r5.sn-gwpa-a3vs.googlevideo.com
+0.0.0.0 r5.sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r5.sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r5.sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r5.sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r5.sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r5.sn-q4fl6n66.googlevideo.com
+0.0.0.0 r5.sn-q4fl6nsk.googlevideo.com
+0.0.0.0 r5.sn-q4flrne6.googlevideo.com
+0.0.0.0 r5.sn-qxaelne6.googlevideo.com
+0.0.0.0 r6---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r6---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r6---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r6---sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r6---sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r6---sn-gwpa-a3vl.googlevideo.com
+0.0.0.0 r6---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r6---sn-gwpa-a3vs.googlevideo.com
+0.0.0.0 r6---sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r6---sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r6---sn-gwpa-qxad.googlevideo.com
+0.0.0.0 r6---sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r6---sn-gwpa-qxak.googlevideo.com
+0.0.0.0 r6---sn-gwpa-qxas.googlevideo.com
+0.0.0.0 r6---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r6---sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r6.sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r6.sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r6.sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r6.sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r6.sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r6.sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r6.sn-gwpa-a3vs.googlevideo.com
+0.0.0.0 r6.sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r6.sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r6.sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r6.sn-gwpa-qxak.googlevideo.com
+0.0.0.0 r6.sn-gwpa-qxas.googlevideo.com
+0.0.0.0 r6.sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r7---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r7---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r7---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r7---sn-gwpa-a3v6.googlevideo.com
+0.0.0.0 r7---sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r7---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r7---sn-gwpa-a3vs.googlevideo.com
+0.0.0.0 r7---sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r7---sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r7---sn-gwpa-qxad.googlevideo.com
+0.0.0.0 r7---sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r7---sn-gwpa-qxak.googlevideo.com
+0.0.0.0 r7---sn-gwpa-qxas.googlevideo.com
+0.0.0.0 r7---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r7---sn-gwpa-qxaz.googlevideo.com
+0.0.0.0 r7.sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r7.sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r7.sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r7.sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r7.sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r7.sn-gwpa-a3vs.googlevideo.com
+0.0.0.0 r7.sn-gwpa-a3vy.googlevideo.com
+0.0.0.0 r7.sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r7.sn-gwpa-qxad.googlevideo.com
+0.0.0.0 r7.sn-gwpa-qxae7.googlevideo.com
+0.0.0.0 r7.sn-gwpa-qxak.googlevideo.com
+0.0.0.0 r7.sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r8---sn-gwpa-3o0e.googlevideo.com
+0.0.0.0 r8---sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r8---sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r8---sn-gwpa-a3ve.googlevideo.com
+0.0.0.0 r8---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r8---sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r8---sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r8---sn-gwpa-qxad.googlevideo.com
+0.0.0.0 r8---sn-gwpa-qxak.googlevideo.com
+0.0.0.0 r8---sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r8--sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r8.sn-gwpa-3o0l.googlevideo.com
+0.0.0.0 r8.sn-gwpa-a3vd.googlevideo.com
+0.0.0.0 r8.sn-gwpa-a3ve.googlevideo.com
+0.0.0.0 r8.sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r8.sn-gwpa-a3vz.googlevideo.com
+0.0.0.0 r8.sn-gwpa-qxa6.googlevideo.com
+0.0.0.0 r8.sn-gwpa-qxad.googlevideo.com
+0.0.0.0 r8.sn-gwpa-qxak.googlevideo.com
+0.0.0.0 r8.sn-gwpa-qxay.googlevideo.com
+0.0.0.0 r9---sn-gwpa-3o0s.googlevideo.com
+0.0.0.0 r9---sn-gwpa-a3vr.googlevideo.com
+0.0.0.0 r9.sn-gwpa-a3vr.googlevideo.com
+
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
